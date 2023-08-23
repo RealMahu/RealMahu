@@ -128,3 +128,7 @@ Fullstack & Web - Dev Student since ~2023 Electrician since ~2011 | Gamer since 
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/RealMahu/RealMahu/output/snake.svg" alt="Snake animation" />
+
+###
