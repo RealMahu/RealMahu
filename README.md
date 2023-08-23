@@ -22,10 +22,9 @@ Fullstack & Web - Dev Student since ~2023 Electrician since ~2011 | Gamer since 
 📝 I’m currently working on my Portfolio <br>
 👨‍💻 I'm a student at [DCI](https://digitalcareerinstitute.org) atm <br>
 👯 I’m looking to collaborate on EndProjekt <br>
-🪳 Creating bugs since 2017 <br>
 📚 I'm currently learning to become a Developer <br>
 🎯 Goals: becoming a Game Developer <br>
-🤡 Fun fact:
+🤡 Fun fact: If I can bug it, I can find a creative way to squash it!
 
 #
 
@@ -34,7 +33,7 @@ Fullstack & Web - Dev Student since ~2023 Electrician since ~2011 | Gamer since 
     ..coming soon!
 </details>
 
-## I code with
+## 🧰 I code with 
 
 ### Operating System
 
@@ -49,7 +48,7 @@ Fullstack & Web - Dev Student since ~2023 Electrician since ~2011 | Gamer since 
 
 ###
 
-### 🧰 Languages and Tools I use
+### Languages and Tools I use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
@@ -67,10 +66,10 @@ Fullstack & Web - Dev Student since ~2023 Electrician since ~2011 | Gamer since 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
 </div>
 <br>
 <div align="left">
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
@@ -88,7 +87,7 @@ Fullstack & Web - Dev Student since ~2023 Electrician since ~2011 | Gamer since 
 
 ###
 
-### Working with these Browsers
+### Browsers, I work with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
