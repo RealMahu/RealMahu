@@ -2,7 +2,7 @@
 
 
 ```
-Fullstack & Web - Dev Student since ~2023 Electrician since ~2011 | Gamer since ~2003
+Fullstack & Web - Dev Student since ~2023 | Electrician since ~2011 | Gamer since ~2003
 ```
 
 ## About me
@@ -126,11 +126,5 @@ Fullstack & Web - Dev Student since ~2023 Electrician since ~2011 | Gamer since 
 <div align="center">
   <img src="https://profile-counter.glitch.me/RealMahu/count.svg?"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RealMahu/RealMahu/output/snake.svg" alt="Snake animation" />
 
 ###
