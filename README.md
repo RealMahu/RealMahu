@@ -121,6 +121,8 @@ Fullstack & Web - Dev Student since ~2023 | Electrician since ~2011 | Gamer sinc
   <img src="https://streak-stats.demolab.com?user=RealMahu&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RealMahu&label=Profile%20views&color=0e75b6&style=flat" alt="RealMahu" /> </p>
+
 ###
 
 <div align="center">
