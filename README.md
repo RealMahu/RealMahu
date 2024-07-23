@@ -116,12 +116,11 @@ Fullstack & Web - Dev Student since ~2023 | Electrician since ~2011 | Gamer sinc
 
 ### 📊 My Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RealMahu&label=Profile%20views&color=0e75b6&style=flat" alt="RealMahu" /> </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RealMahu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=RealMahu&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RealMahu&label=Profile%20views&color=0e75b6&style=flat" alt="RealMahu" /> </p>
 
 ###
 
