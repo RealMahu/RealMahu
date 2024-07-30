@@ -2,7 +2,7 @@
 
 
 ```
-Fullstack & Web - Dev Student since ~2023 | Electrician since ~2011 | Gamer since ~2003
+Fullstack Webdeveloper since ~2023 | Electrician since ~2011 | Gamer since ~2003
 ```
 
 ## About me
