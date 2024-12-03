@@ -8,7 +8,7 @@ Fullstack Webdeveloper since ~2023 | Electrician since ~2011 | Gamer since ~2003
 ## About me
 
 <p>
-    Hi 👋 I'm Dánny, 30years old, born and grew up in germany also an webdevelopment student at <a href="https://digitalcareerinstitute.org"><img width="60px" alt="DCI Logo, blue colored letters 'DCI', and their meaning 'digital career institute'" src="https://digitalcareerinstitute.org/wp-content/uploads/2022/04/DCI_COLORS_June24_logo_wordmark_blue.svg" ></a>.<br>Currently on a journey becoming a Fullstack and Web Developer. I hope in the future, I am able to extend this part.<br>About upcoming projects and stuff I'd like to share. Follow me, and join my journey - becoming an Developer.
+    Hi 👋 I'm Dánny, 30years old, web developer born and raised in germany. Follow for upcoming projects and stuff I'd like to share. Join my journey as a Developer.
     <br>
     <br>
     <br>
@@ -18,12 +18,12 @@ Fullstack Webdeveloper since ~2023 | Electrician since ~2011 | Gamer since ~2003
     <i>Dánny</i>
 </p>
 
-🎮 I'm a Gamer since I can think <br>
-📝 I’m currently working on my Portfolio <br>
-👨‍💻 I'm a student at [DCI](https://digitalcareerinstitute.org) atm <br>
-👯 I’m looking to collaborate on EndProjekt <br>
-📚 I'm currently learning to become a Developer <br>
+📚 Currently looking for web development jobs <br>
+👨‍💻 Studied web development at [DCI](https://digitalcareerinstitute.org) <br>
+📝 Working on my Portfolio <br>
 🎯 Goals: becoming a Game Developer <br>
+🎮 Gamer since ever <br>
+👯 Looking to colaborate on projects <br>
 🤡 Fun fact: If I can bug it, I can find a creative way to squash it!
 
 #
